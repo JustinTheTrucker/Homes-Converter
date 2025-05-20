@@ -14,4 +14,4 @@ A Python script to convert old-style Minecraft home `.yml` files to a new format
 2. Run the script:
 
 ```bash
-python convert_homes_auto.py
+python Home_Converter.py
