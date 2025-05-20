@@ -28,7 +28,7 @@ if errorlevel 1 (
 echo.
 echo Starting converter...
 echo --------------------------
-py homes_converter.py
+py Home_Converter.py
 
 echo.
 pause
